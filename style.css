@@ -1,0 +1,115 @@
+nav.navcomum {
+    position: absolute;
+    top: 30px;
+    right: 100px;
+    font-weight: bold;
+}
+
+a:link {
+    text-decoration: none;
+    color: #000000;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    padding: 10px;
+    border-radius: 20px;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    position: absolute;
+    top: 80px;
+    right: 100px;
+}
+
+div.historia {
+    width: 700px;
+    border: 15px;
+    padding: 50px;
+    margin: 40px;
+    position: absolute;
+    top: 0px;
+    right: 00px;
+    text-align: justify;
+}
+
+table {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px;
+}
+
+td {
+    padding: 10px;
+}
+
+form.formulario {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+    font-weight: bold;
+    border-radius: 20px;
+}
+
+input {
+    width: 80%;
+    padding: 50px;
+    border-radius: 20px;
+    border-color: black;
+}
+
+input#nome {
+    padding: 20px;
+    width: 50%;
+}
+
+input#email {
+    padding: 20px;
+    width: 50%;
+}
+
+input#telefone {
+    padding: 20px;
+    width: 20%;
+}
+
+input#assunto {
+    padding: 20px;
+    width: 50%;
+}
+
+input#enviar {
+    padding: 20px;
+    width: 10%;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+div.farofa {
+    width: 600px;
+    height: 500px;
+    margin: 3%;
+}
+
+div.carreteiro {
+    width: 600px;
+    border: 15px;
+    padding: 30px;
+    margin: 3%;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+footer {
+    padding-top: 5em;
+    padding-bottom: 40px;
+}
